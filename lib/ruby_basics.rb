@@ -4,7 +4,7 @@ def division(num1, num2)
 end
 
 def assign_variable(name = "Bob")
-  value = name
+  name
 end
 
 def argue(phrase)
@@ -24,5 +24,5 @@ def last_evaluated_value(value_1 = "expert")
 end
 
 def pizza_party(ingredient = "cheese")
-  return ingredient
+   ingredient
 end
